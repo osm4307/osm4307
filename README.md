@@ -28,4 +28,4 @@ And More...
 
 💬 **Let's Connect!**
 
-Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/sangmin-oh-11635b166/) or check out my projects here on GitHub.
+Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/ohsangmin/) or check out my projects here on GitHub.
