@@ -1,3 +1,7 @@
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=Transparent&text=Hi,%20I'm%20Sangmin&fontColor=d6ace6)
+</div>
 👋 Hi there! I'm Sangmin
 
 Junior Data Analyst | SQL Developer | Web Developer
