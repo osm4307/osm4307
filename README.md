@@ -20,7 +20,7 @@ Problem-Solving: Analytical thinking and critical reasoning
 
 🚀 **Projects:**
 
-Gym Membership Analysis: Analyzed workout patterns to provide personalized fitness recommendations.
+[Gym Membership Analysis](https://github.com/osm4307/Gym-Members-Exercise-Analysis): Analyzed workout patterns to provide personalized fitness recommendations.
 
 And More...
 
