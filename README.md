@@ -1,12 +1,12 @@
 👋 **Hi there! I'm Sangmin**
 
-***Junior Data Analyst | SQL Developer | Web Developer***
+***Junior Data Analyst | SQL Developer***
 
 ---
 
 💡 **Skills:**
 
-Data Analysis: SQL, Python, Excel (Google Sheets), Power BI, Tableau
+Data Analysis: SQL, Python, MS Excel, Power BI, Tableau
 
 Web Development: HTML, CSS, JavaScript
 
@@ -23,6 +23,8 @@ Problem-Solving: Analytical thinking and critical reasoning
 [Gym Membership Analysis](https://github.com/osm4307/Gym-Members-Exercise-Analysis): Analyzed workout patterns to provide personalized fitness recommendations.
 
 [Strong And Weak Stocks During A Recession](https://github.com/osm4307/Strong-And-Weak-Stocks-During-A-Recession): Comparative Analysis of S&P 500 Sector Performance During the COVID-19 Pandemic
+
+[Information for Data Analyst Job Seekers](https://github.com/osm4307/PowerBI-Project): Analysis of Data Analyst Employment Information.
 
 ---
 
