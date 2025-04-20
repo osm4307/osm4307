@@ -1,6 +1,6 @@
 👋 **Hi there! I'm Sangmin**
 
-***Junior Data Analyst | SQL Developer***
+***Assistant Data Analyst in Ministry of Justice, South Korea | Junior Data Analyst | Seeking Opportunities to Apply My Skills***
 
 ---
 
