@@ -20,11 +20,13 @@ Problem-Solving: Analytical thinking and critical reasoning
 
 🚀 **Projects:**
 
+[Walmart Sales Analysis](https://github.com/osm4307/walmart-sales-analysis-project): This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data.
+
 [Gym Membership Analysis](https://github.com/osm4307/Gym-Members-Exercise-Analysis): Analyzed workout patterns to provide personalized fitness recommendations.
 
-[Strong And Weak Stocks During A Recession](https://github.com/osm4307/Strong-And-Weak-Stocks-During-A-Recession): Comparative Analysis of S&P 500 Sector Performance During the COVID-19 Pandemic
+[Strong And Weak Stocks During A Recession](https://github.com/osm4307/Strong-And-Weak-Stocks-During-A-Recession): Comparative analysis of S&P 500 sector performance during the COVID-19 pandemic
 
-[Information for Data Analyst Job Seekers](https://github.com/osm4307/PowerBI-Project): Analysis of Data Analyst Employment Information.
+[Information for Data Analyst Job Seekers](https://github.com/osm4307/PowerBI-Project): Analysis of data analyst employment information.
 
 ---
 
